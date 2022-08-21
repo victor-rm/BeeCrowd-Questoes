@@ -1,3 +1,10 @@
+/*
+   Questão 1007 - Diferença
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1007
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Locale;

@@ -1,3 +1,10 @@
+/*
+   Questão 1012 - Área
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1012
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Locale;

@@ -1,3 +1,10 @@
+/*
+   Questão 1013 - O Maior
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1013
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Scanner;

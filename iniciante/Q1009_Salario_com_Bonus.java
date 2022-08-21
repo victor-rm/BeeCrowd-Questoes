@@ -1,3 +1,10 @@
+/*
+   Questão 1009 - Salário com Bônus
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1009
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.text.DecimalFormat;

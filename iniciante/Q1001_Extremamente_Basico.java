@@ -1,3 +1,11 @@
+/*
+   Questão 1001 - Extremamente Básico
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1001
+
+   @author: Victor Ribeiro
+ */
+
 package iniciante;
 
 import java.io.IOException;

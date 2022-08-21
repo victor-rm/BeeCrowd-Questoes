@@ -1,3 +1,10 @@
+/*
+   Questão 1002 - Área do Círculo
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1002
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.io.IOException;

@@ -1,3 +1,10 @@
+/*
+   Questão 1017 - Gasto de Combustível
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1017
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Locale;

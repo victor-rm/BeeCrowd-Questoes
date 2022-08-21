@@ -1,3 +1,10 @@
+/*
+   Questão 1010 - Cálculo Simples
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1010
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Locale;

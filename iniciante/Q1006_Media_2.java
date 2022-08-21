@@ -1,3 +1,10 @@
+/*
+   Questão 1006 - Média 2
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1006
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Locale;

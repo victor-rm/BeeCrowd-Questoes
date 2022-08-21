@@ -1,3 +1,10 @@
+/*
+   Questão 1014 - Consumo
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1014
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Locale;

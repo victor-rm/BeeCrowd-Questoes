@@ -1,3 +1,10 @@
+/*
+   Questão 1003 - Soma Simples
+
+   Link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1003
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.io.IOException;

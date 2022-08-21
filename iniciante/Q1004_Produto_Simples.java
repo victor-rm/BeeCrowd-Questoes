@@ -1,3 +1,10 @@
+/*
+   Questão 1004 - Produto Simples
+
+   link da questão: https://www.beecrowd.com.br/judge/pt/problems/view/1004
+
+   @author: Victor Ribeiro
+ */
 package iniciante;
 
 import java.util.Scanner;
